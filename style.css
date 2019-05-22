@@ -1,0 +1,11 @@
+.navbar-brand {
+    color: #ffffff !important;
+    background-color: #4aaaa5;
+    padding: 15px;
+    margin: 0 auto !important;
+}
+
+.container{
+    width: 960px;
+}
+
