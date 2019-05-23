@@ -1,9 +1,7 @@
 .navbar-brand {
-    color: #ffffff !important;
     background-color: #4aaaa5;
     padding: 15px;
-    margin: 0 auto !important;
-    /*font-family: Georgia, 'Times New Roman', Times, serif !important;*/
+    font-family: Georgia, 'Times New Roman', Times, serif !important;
 }
 
 
@@ -11,7 +9,15 @@
     color: #4aaaa5;
     margin: 10px 0 10px 10px;
     text-align: left;
-    /*font-family: Georgia, 'Times New Roman', Times, serif !important;*/
+    font-family: Georgia, 'Times New Roman', Times, serif !important;
     
+}
+
+.container{
+    max-width: 960px;
+}
+
+.content{
+    float: left;
 }
 
