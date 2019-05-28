@@ -35,7 +35,7 @@ body{
 .main-container {
     max-width: 960px;
     height: 800px;
-    margin-bottom: 150px;
+    margin: 0 20px 150px 20px;
 }
 
 .heading{
@@ -44,7 +44,8 @@ body{
     padding: 20px;
     margin-top: 5px;
     padding-top: 15px;
-    max-width: 960px;
+    max-width: 920px;
+    margin: 0 auto;
 }
 
 .p-0 {
@@ -58,8 +59,8 @@ body{
 
 
 p{
-   max-width: 920px;
-   margin: 0 auto;
+   max-width: 900px;
+   margin: 0 20px 0 20px;
 }
 
 h1{
