@@ -76,3 +76,51 @@ h1{
     margin: 0 auto;
     color: #707070 !important;
 }
+
+
+#PF1{
+    background-image: url(PF1.jpg);
+}
+
+#PF2{
+    background-image: url(PF2.jpg);
+}
+
+#PF3{
+    background-image: url(PF3.jpg);
+}
+
+#PF4{
+    background-image: url(PF4.jpg);
+}
+
+#PF5{
+    background-image: url(PF5.jpg);
+}
+
+#PF1, #PF2, #PF3, #PF4, #PF5{
+    background-repeat: no-repeat;
+    max-width: 280px;
+    height: 280px;
+    margin: 0 0 20px 20px;
+    position: relative;
+} 
+
+.PFText{
+    text-align: center;
+    color: #ffffff;
+    background-color: #4aaaa5;
+    position: absolute;
+    padding-top: 10px;
+    width: 100%;
+    position: absolute;
+    top: 230px;
+    height: 40px;
+}
+
+.container-1{
+    width: 280px;
+    padding:20px 0px 0 20px;
+    float: left;
+    margin:0 auto;
+}
